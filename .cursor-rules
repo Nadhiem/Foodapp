@@ -1,0 +1,4 @@
+# Cursor Custom Rules
+- Prefer SwiftUI for new views.
+- Commit messages should follow Conventional Commits.
+- Keep API keys and secrets in placeholders.
